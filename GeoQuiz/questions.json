@@ -1,0 +1,2126 @@
+[
+    {
+        "question": "Was ist die Hauptstadt von Deutschland?",
+        "answers": [
+            "Berlin",
+            "München",
+            "Hamburg",
+            "Frankfurt"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Frankreich?",
+        "answers": [
+            "Marseille",
+            "Lyon",
+            "Paris",
+            "Nizza"
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Italien?",
+        "answers": [
+            "Rom",
+            "Mailand",
+            "Venedig",
+            "Florenz"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Spanien?",
+        "answers": [
+            "Barcelona",
+            "Madrid",
+            "Sevilla",
+            "Valencia"
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Portugal?",
+        "answers": [
+            "Porto",
+            "Lissabon",
+            "Faro",
+            "Coimbra"
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Österreich?",
+        "answers": [
+            "Salzburg",
+            "Innsbruck",
+            "Wien",
+            "Graz"
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Griechenland?",
+        "answers": [
+            "Thessaloniki",
+            "Patras",
+            "Athen",
+            "Heraklion"
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt der Schweiz?",
+        "answers": [
+            "Zürich",
+            "Genf",
+            "Bern",
+            "Basel"
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt der Mongolei?",
+        "answers": [
+            "Kiew",
+            "Baku",
+            "Astana",
+            "Ulan-Bator"
+        ],
+        "correctAnswer": 3,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Belgien?",
+        "answers": [
+            "Brüssel",
+            "Antwerpen",
+            "Gent",
+            "Lüttich"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Norwegen?",
+        "answers": [
+            "Oslo",
+            "Bergen",
+            "Trondheim",
+            "Stavanger"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Schweden?",
+        "answers": [
+            "Stockholm",
+            "Göteborg",
+            "Malmö",
+            "Uppsala"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Finnland?",
+        "answers": [
+            "Helsinki",
+            "Tampere",
+            "Turku",
+            "Oulu"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Dänemark?",
+        "answers": [
+            "Kopenhagen",
+            "Aarhus",
+            "Odense",
+            "Aalborg"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Island?",
+        "answers": [
+            "Reykjavík",
+            "Akureyri",
+            "Hafnarfjörður",
+            "Kópavogur"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Polen?",
+        "answers": [
+            "Warschau",
+            "Krakau",
+            "Łódź",
+            "Wrocław"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Ungarn?",
+        "answers": [
+            "Budapest",
+            "Debrecen",
+            "Szeged",
+            "Miskolc"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Rumänien?",
+        "answers": [
+            "Bukarest",
+            "Cluj-Napoca",
+            "Timișoara",
+            "Iași"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Bulgarien?",
+        "answers": [
+            "Sofia",
+            "Plowdiw",
+            "Varna",
+            "Burgas"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Indien?",
+        "answers": [
+            "Neu-Delhi",
+            "Mumbai",
+            "Kolkata",
+            "Bangalore"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Brasilien?",
+        "answers": [
+            "Brasília",
+            "Rio de Janeiro",
+            "São Paulo",
+            "Salvador"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Südamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Argentinien?",
+        "answers": [
+            "Buenos Aires",
+            "Córdoba",
+            "Rosario",
+            "Mendoza"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Südamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Kanada?",
+        "answers": [
+            "Ottawa",
+            "Toronto",
+            "Vancouver",
+            "Montreal"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Australien?",
+        "answers": [
+            "Canberra",
+            "Sydney",
+            "Melbourne",
+            "Brisbane"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Thailand?",
+        "answers": [
+            "Bangkok",
+            "Chiang Mai",
+            "Pattaya",
+            "Phuket"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Myanmar?",
+        "answers": [
+            "Naypyidaw",
+            "Yangon",
+            "Mandalay",
+            "Bago"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Bhutan?",
+        "answers": [
+            "Thimphu",
+            "Phuntsholing",
+            "Punakha",
+            "Paro"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Uganda?",
+        "answers": [
+            "Kampala",
+            "Entebbe",
+            "Jinja",
+            "Gulu"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Oman?",
+        "answers": [
+            "Maskat",
+            "Salalah",
+            "Nizwa",
+            "Sohar"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Usbekistan?",
+        "answers": [
+            "Taschkent",
+            "Samarkand",
+            "Buchara",
+            "Chiwa"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Kambodscha?",
+        "answers": [
+            "Phnom Penh",
+            "Siem Reap",
+            "Battambang",
+            "Sihanoukville"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Laos?",
+        "answers": [
+            "Vientiane",
+            "Luang Prabang",
+            "Pakse",
+            "Savannakhet"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Nepal?",
+        "answers": [
+            "Kathmandu",
+            "Pokhara",
+            "Lalitpur",
+            "Biratnagar"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Bangladesch?",
+        "answers": [
+            "Dhaka",
+            "Chittagong",
+            "Khulna",
+            "Rajshahi"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Kasachstan?",
+        "answers": [
+            "Astana",
+            "Almaty",
+            "Shymkent",
+            "Karaganda"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Weißrussland?",
+        "answers": [
+            "Minsk",
+            "Gomel",
+            "Witebsk",
+            "Brest"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Georgien?",
+        "answers": [
+            "Tiflis",
+            "Batumi",
+            "Kutaisi",
+            "Rustawi"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Armenien?",
+        "answers": [
+            "Eriwan",
+            "Gyumri",
+            "Vanadzor",
+            "Hrazdan"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Afghanistan?",
+        "answers": [
+            "Kabul",
+            "Kandahar",
+            "Herat",
+            "Mazar-i-Sharif"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Albanien?",
+        "answers": [
+            "Tirana",
+            "Durrës",
+            "Vlora",
+            "Shkodra"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Algerien?",
+        "answers": [
+            "Algier",
+            "Oran",
+            "Constantine",
+            "Annaba"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Andorra?",
+        "answers": [
+            "Andorra la Vella",
+            "Escaldes-Engordany",
+            "Encamp",
+            "La Massana"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Angola?",
+        "answers": [
+            "Luanda",
+            "Lobito",
+            "Huambo",
+            "Benguela"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Antigua und Barbuda?",
+        "answers": [
+            "Saint John's",
+            "All Saints",
+            "Liberta",
+            "Bolans"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Aserbaidschan?",
+        "answers": [
+            "Baku",
+            "Ganja",
+            "Sumqayit",
+            "Mingəçevir"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Bahrain?",
+        "answers": [
+            "Manama",
+            "Riffa",
+            "Muharraq",
+            "Hamad Town"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Barbados?",
+        "answers": [
+            "Bridgetown",
+            "Speightstown",
+            "Oistins",
+            "Holetown"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Belarus?",
+        "answers": [
+            "Minsk",
+            "Gomel",
+            "Witebsk",
+            "Brest"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Belize?",
+        "answers": [
+            "Belmopan",
+            "Belize City",
+            "San Ignacio",
+            "Orange Walk Town"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Benin?",
+        "answers": [
+            "Porto-Novo",
+            "Cotonou",
+            "Parakou",
+            "Djougou"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Bolivien?",
+        "answers": [
+            "Sucre",
+            "La Paz",
+            "Santa Cruz",
+            "Cochabamba"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Südamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Bosnien und Herzegowina?",
+        "answers": [
+            "Sarajevo",
+            "Banja Luka",
+            "Mostar",
+            "Tuzla"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Botswana?",
+        "answers": [
+            "Gaborone",
+            "Francistown",
+            "Molepolole",
+            "Maun"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Burkina Faso?",
+        "answers": [
+            "Ouagadougou",
+            "Bobo-Dioulasso",
+            "Koudougou",
+            "Banfora"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Burundi?",
+        "answers": [
+            "Gitega",
+            "Bujumbura",
+            "Ngozi",
+            "Ruyigi"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Kap Verde?",
+        "answers": [
+            "Praia",
+            "Mindelo",
+            "Santa Maria",
+            "Assomada"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Kamerun?",
+        "answers": [
+            "Yaoundé",
+            "Douala",
+            "Garoua",
+            "Bamenda"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Zentralafrikanische Republik?",
+        "answers": [
+            "Bangui",
+            "Bimbo",
+            "Berbérati",
+            "Carnot"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Tschad?",
+        "answers": [
+            "N'Djamena",
+            "Moundou",
+            "Sarh",
+            "Abeche"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Chile?",
+        "answers": [
+            "Santiago",
+            "Valparaíso",
+            "Concepción",
+            "La Serena"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Südamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Kolumbien?",
+        "answers": [
+            "Bogotá",
+            "Medellín",
+            "Cali",
+            "Cartagena"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Südamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Costa Rica?",
+        "answers": [
+            "San José",
+            "Alajuela",
+            "Cartago",
+            "Heredia"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Kroatien?",
+        "answers": [
+            "Zagreb",
+            "Split",
+            "Rijeka",
+            "Osijek"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Zypern?",
+        "answers": [
+            "Nikosia",
+            "Limassol",
+            "Larnaka",
+            "Paphos"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Tschechien?",
+        "answers": [
+            "Prag",
+            "Brünn",
+            "Ostrava",
+            "Pilsen"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Demokratische Republik Kongo?",
+        "answers": [
+            "Kinshasa",
+            "Lubumbashi",
+            "Mbuji-Mayi",
+            "Kananga"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Dominica?",
+        "answers": [
+            "Roseau",
+            "Portsmouth",
+            "Marigot",
+            "Berekua"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Dominikanische Republik?",
+        "answers": [
+            "Santo Domingo",
+            "Santiago de los Caballeros",
+            "La Romana",
+            "San Pedro de Macorís"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Osttimor?",
+        "answers": [
+            "Dili",
+            "Baucau",
+            "Maliana",
+            "Suai"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Ecuador?",
+        "answers": [
+            "Quito",
+            "Guayaquil",
+            "Cuenca",
+            "Santo Domingo"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Südamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Ägypten?",
+        "answers": [
+            "Kairo",
+            "Alexandria",
+            "Gizeh",
+            "Shubra El Kheima"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von El Salvador?",
+        "answers": [
+            "San Salvador",
+            "Santa Ana",
+            "San Miguel",
+            "Soyapango"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Äquatorialguinea?",
+        "answers": [
+            "Malabo",
+            "Bata",
+            "Ebebiyin",
+            "Aconibe"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Eritrea?",
+        "answers": [
+            "Asmara",
+            "Keren",
+            "Massawa",
+            "Mendefera"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Estland?",
+        "answers": [
+            "Tallinn",
+            "Tartu",
+            "Narva",
+            "Pärnu"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Eswatini?",
+        "answers": [
+            "Mbabane",
+            "Manzini",
+            "Lobamba",
+            "Siteki"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Fidschi?",
+        "answers": [
+            "Suva",
+            "Nadi",
+            "Lautoka",
+            "Labasa"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Gabun?",
+        "answers": [
+            "Libreville",
+            "Port-Gentil",
+            "Franceville",
+            "Oyem"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Gambia?",
+        "answers": [
+            "Banjul",
+            "Serekunda",
+            "Brikama",
+            "Bakau"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Ghana?",
+        "answers": [
+            "Accra",
+            "Kumasi",
+            "Tamale",
+            "Takoradi"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Grenada?",
+        "answers": [
+            "St. George's",
+            "Gouyave",
+            "Grenville",
+            "Victoria"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Guatemala?",
+        "answers": [
+            "Guatemala-Stadt",
+            "Quetzaltenango",
+            "Escuintla",
+            "Mazatenango"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Guinea?",
+        "answers": [
+            "Conakry",
+            "Nzérékoré",
+            "Kankan",
+            "Kindia"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Guinea-Bissau?",
+        "answers": [
+            "Bissau",
+            "Bafatá",
+            "Gabú",
+            "Bissorã"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Guyana?",
+        "answers": [
+            "Georgetown",
+            "Linden",
+            "New Amsterdam",
+            "Bartica"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Südamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Haiti?",
+        "answers": [
+            "Port-au-Prince",
+            "Cap-Haïtien",
+            "Gonaïves",
+            "Les Cayes"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Honduras?",
+        "answers": [
+            "Tegucigalpa",
+            "San Pedro Sula",
+            "Choloma",
+            "La Ceiba"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Iran?",
+        "answers": [
+            "Teheran",
+            "Isfahan",
+            "Mashhad",
+            "Shiraz"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Irak?",
+        "answers": [
+            "Bagdad",
+            "Basra",
+            "Erbil",
+            "Mosul"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Irland?",
+        "answers": [
+            "Dublin",
+            "Cork",
+            "Galway",
+            "Limerick"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Israel?",
+        "answers": [
+            "Jerusalem",
+            "Tel Aviv",
+            "Haifa",
+            "Beersheba"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Jamaika?",
+        "answers": [
+            "Kingston",
+            "Montego Bay",
+            "Spanish Town",
+            "Portmore"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Jordanien?",
+        "answers": [
+            "Amman",
+            "Zarqa",
+            "Irbid",
+            "Aqaba"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Kenia?",
+        "answers": [
+            "Nairobi",
+            "Mombasa",
+            "Kisumu",
+            "Nakuru"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Kiribati?",
+        "answers": [
+            "Tarawa",
+            "Betio",
+            "Bikenibeu",
+            "Teaoraereke"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Nordkorea?",
+        "answers": [
+            "Pjöngjang",
+            "Nampo",
+            "Hamhung",
+            "Chongjin"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Südkorea?",
+        "answers": [
+            "Seoul",
+            "Busan",
+            "Incheon",
+            "Daegu"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Kosovo?",
+        "answers": [
+            "Pristina",
+            "Prizren",
+            "Peja",
+            "Gjilan"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Kuwait?",
+        "answers": [
+            "Kuwait-Stadt",
+            "Al Ahmadi",
+            "Hawalli",
+            "Mubarak Al-Kabeer"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Kirgisistan?",
+        "answers": [
+            "Bischkek",
+            "Osch",
+            "Dschalalabat",
+            "Karakol"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Lettland?",
+        "answers": [
+            "Riga",
+            "Daugavpils",
+            "Liepāja",
+            "Jelgava"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Libanon?",
+        "answers": [
+            "Beirut",
+            "Tripoli",
+            "Sidon",
+            "Zahle"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Lesotho?",
+        "answers": [
+            "Maseru",
+            "Teyateyaneng",
+            "Mafeteng",
+            "Hlotse"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Liberia?",
+        "answers": [
+            "Monrovia",
+            "Gbarnga",
+            "Kakata",
+            "Buchanan"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Libyen?",
+        "answers": [
+            "Tripolis",
+            "Bengasi",
+            "Misrata",
+            "Sabha"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Liechtenstein?",
+        "answers": [
+            "Vaduz",
+            "Schaan",
+            "Balzers",
+            "Triesen"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Litauen?",
+        "answers": [
+            "Vilnius",
+            "Kaunas",
+            "Klaipėda",
+            "Šiauliai"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Luxemburg?",
+        "answers": [
+            "Luxemburg-Stadt",
+            "Esch-sur-Alzette",
+            "Differdingen",
+            "Dudelange"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Madagaskar?",
+        "answers": [
+            "Antananarivo",
+            "Toamasina",
+            "Antsirabe",
+            "Fianarantsoa"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Malawi?",
+        "answers": [
+            "Lilongwe",
+            "Blantyre",
+            "Mzuzu",
+            "Zomba"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Malaysia?",
+        "answers": [
+            "Kuala Lumpur",
+            "George Town",
+            "Ipoh",
+            "Johor Bahru"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Malediven?",
+        "answers": [
+            "Malé",
+            "Addu City",
+            "Fuvahmulah",
+            "Hulhumalé"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Mali?",
+        "answers": [
+            "Bamako",
+            "Sikasso",
+            "Mopti",
+            "Kayes"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Malta?",
+        "answers": [
+            "Valletta",
+            "Birkirkara",
+            "Mosta",
+            "Sliema"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Marshallinseln?",
+        "answers": [
+            "Majuro",
+            "Ebeye",
+            "Jaluit",
+            "Kwajalein"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Mauretanien?",
+        "answers": [
+            "Nouakchott",
+            "Nouadhibou",
+            "Rosso",
+            "Kaédi"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Mauritius?",
+        "answers": [
+            "Port Louis",
+            "Beau Bassin-Rose Hill",
+            "Vacoas-Phoenix",
+            "Curepipe"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Mexiko?",
+        "answers": [
+            "Mexiko-Stadt",
+            "Guadalajara",
+            "Monterrey",
+            "Puebla"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Mikronesien?",
+        "answers": [
+            "Palikir",
+            "Weno",
+            "Kolonia",
+            "Tofol"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Moldawien?",
+        "answers": [
+            "Chișinău",
+            "Tiraspol",
+            "Bălți",
+            "Bender"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Monaco?",
+        "answers": [
+            "Monaco",
+            "Monte Carlo",
+            "La Condamine",
+            "Fontvieille"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Montenegro?",
+        "answers": [
+            "Podgorica",
+            "Nikšić",
+            "Herceg Novi",
+            "Pljevlja"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Marokko?",
+        "answers": [
+            "Rabat",
+            "Casablanca",
+            "Marrakesch",
+            "Fès"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Mosambik?",
+        "answers": [
+            "Maputo",
+            "Beira",
+            "Nampula",
+            "Chimoio"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Namibia?",
+        "answers": [
+            "Windhoek",
+            "Swakopmund",
+            "Walvis Bay",
+            "Oshakati"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Nauru?",
+        "answers": [
+            "Yaren",
+            "Aiwo",
+            "Anabar",
+            "Anibare"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Niederlande?",
+        "answers": [
+            "Amsterdam",
+            "Den Haag",
+            "Rotterdam",
+            "Utrecht"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Neuseeland?",
+        "answers": [
+            "Wellington",
+            "Auckland",
+            "Christchurch",
+            "Hamilton"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Nicaragua?",
+        "answers": [
+            "Managua",
+            "León",
+            "Masaya",
+            "Granada"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Niger?",
+        "answers": [
+            "Niamey",
+            "Zinder",
+            "Maradi",
+            "Agadez"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Nigeria?",
+        "answers": [
+            "Abuja",
+            "Lagos",
+            "Ibadan",
+            "Kano"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Nordmazedonien?",
+        "answers": [
+            "Skopje",
+            "Bitola",
+            "Ohrid",
+            "Tetovo"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Pakistan?",
+        "answers": [
+            "Islamabad",
+            "Karachi",
+            "Lahore",
+            "Faisalabad"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Palau?",
+        "answers": [
+            "Ngerulmud",
+            "Koror",
+            "Melekeok",
+            "Airai"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Panama?",
+        "answers": [
+            "Panama-Stadt",
+            "Colón",
+            "David",
+            "Santiago"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Papua-Neuguinea?",
+        "answers": [
+            "Port Moresby",
+            "Lae",
+            "Mount Hagen",
+            "Madang"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Paraguay?",
+        "answers": [
+            "Asunción",
+            "Ciudad del Este",
+            "San Lorenzo",
+            "Luque"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Südamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Peru?",
+        "answers": [
+            "Lima",
+            "Arequipa",
+            "Trujillo",
+            "Chiclayo"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Südamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Philippinen?",
+        "answers": [
+            "Manila",
+            "Quezon City",
+            "Cebu City",
+            "Davao City"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Katar?",
+        "answers": [
+            "Doha",
+            "Al Rayyan",
+            "Umm Salal",
+            "Al Khor"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Ruanda?",
+        "answers": [
+            "Kigali",
+            "Butare",
+            "Gisenyi",
+            "Ruhengeri"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Samoa?",
+        "answers": [
+            "Apia",
+            "Vaitele",
+            "Faleula",
+            "Siusega"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von San Marino?",
+        "answers": [
+            "San Marino",
+            "Serravalle",
+            "Borgo Maggiore",
+            "Domagnano"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von São Tomé und Príncipe?",
+        "answers": [
+            "São Tomé",
+            "Santo Amaro",
+            "Neves",
+            "Trindade"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Saudi-Arabien?",
+        "answers": [
+            "Riad",
+            "Dschidda",
+            "Mekka",
+            "Medina"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Senegal?",
+        "answers": [
+            "Dakar",
+            "Pikine",
+            "Touba",
+            "Rufisque"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Seychellen?",
+        "answers": [
+            "Victoria",
+            "Anse Boileau",
+            "Beau Vallon",
+            "Cascade"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Sierra Leone?",
+        "answers": [
+            "Freetown",
+            "Bo",
+            "Kenema",
+            "Makeni"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Singapur?",
+        "answers": [
+            "Singapur",
+            "Jurong",
+            "Tampines",
+            "Sengkang"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Slowakei?",
+        "answers": [
+            "Bratislava",
+            "Košice",
+            "Prešov",
+            "Žilina"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Slowenien?",
+        "answers": [
+            "Ljubljana",
+            "Maribor",
+            "Celje",
+            "Kranj"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Salomonen?",
+        "answers": [
+            "Honiara",
+            "Gizo",
+            "Auki",
+            "Kirakira"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Somalia?",
+        "answers": [
+            "Mogadischu",
+            "Hargeisa",
+            "Berbera",
+            "Baidoa"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Südafrika?",
+        "answers": [
+            "Pretoria",
+            "Kapstadt",
+            "Bloemfontein",
+            "Johannesburg"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Südsudan?",
+        "answers": [
+            "Juba",
+            "Wau",
+            "Malakal",
+            "Rumbek"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Sri Lanka?",
+        "answers": [
+            "Sri Jayawardenepura Kotte",
+            "Colombo",
+            "Kandy",
+            "Galle"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Sudan?",
+        "answers": [
+            "Khartum",
+            "Omdurman",
+            "Port Sudan",
+            "Kassala"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Suriname?",
+        "answers": [
+            "Paramaribo",
+            "Lelydorp",
+            "Nieuw Nickerie",
+            "Moengo"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Südamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Syrien?",
+        "answers": [
+            "Damaskus",
+            "Aleppo",
+            "Homs",
+            "Latakia"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Tadschikistan?",
+        "answers": [
+            "Duschanbe",
+            "Chudschand",
+            "Kulob",
+            "Qurghonteppa"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Tansania?",
+        "answers": [
+            "Dodoma",
+            "Dar es Salaam",
+            "Arusha",
+            "Mwanza"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Togo?",
+        "answers": [
+            "Lomé",
+            "Sokodé",
+            "Kara",
+            "Atakpamé"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Tonga?",
+        "answers": [
+            "Nukuʻalofa",
+            "Neiafu",
+            "Haveluloto",
+            "Vaini"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Trinidad und Tobago?",
+        "answers": [
+            "Port of Spain",
+            "San Fernando",
+            "Chaguanas",
+            "Arima"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Nordamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Tunesien?",
+        "answers": [
+            "Tunis",
+            "Sfax",
+            "Sousse",
+            "Ettadhamen"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Turkmenistan?",
+        "answers": [
+            "Aschgabat",
+            "Turkmenabat",
+            "Dasoguz",
+            "Mary"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Tuvalu?",
+        "answers": [
+            "Funafuti",
+            "Nanumea",
+            "Nukulaelae",
+            "Niutao"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Ukraine?",
+        "answers": [
+            "Kiew",
+            "Charkiw",
+            "Dnipro",
+            "Odessa"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Vereinigte Arabische Emirate?",
+        "answers": [
+            "Abu Dhabi",
+            "Dubai",
+            "Sharjah",
+            "Ajman"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Uruguay?",
+        "answers": [
+            "Montevideo",
+            "Salto",
+            "Paysandú",
+            "Las Piedras"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Südamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Vanuatu?",
+        "answers": [
+            "Port Vila",
+            "Luganville",
+            "Norsup",
+            "Port Olry"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Australien und Ozeanien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Vatikanstadt?",
+        "answers": [
+            "Vatikanstadt",
+            "Rom",
+            "Castel Gandolfo",
+            "Velletri"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Europa"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Venezuela?",
+        "answers": [
+            "Caracas",
+            "Maracaibo",
+            "Valencia",
+            "Barquisimeto"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Südamerika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Vietnam?",
+        "answers": [
+            "Hanoi",
+            "Ho-Chi-Minh-Stadt",
+            "Da Nang",
+            "Haiphong"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Jemen?",
+        "answers": [
+            "Sanaa",
+            "Aden",
+            "Taiz",
+            "Al Hudaydah"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Asien"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Sambia?",
+        "answers": [
+            "Lusaka",
+            "Ndola",
+            "Kitwe",
+            "Livingstone"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Simbabwe?",
+        "answers": [
+            "Harare",
+            "Bulawayo",
+            "Chitungwiza",
+            "Mutare"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "continent": "Afrika"
+    }
+]
